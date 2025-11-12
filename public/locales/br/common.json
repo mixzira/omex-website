@@ -1,0 +1,22 @@
+{
+    "languages": {
+        "br": "Português",
+        "us": "Inglês"
+    },
+    "navigation": {
+        "shop": "Loja",
+        "ranking": "Ranking",
+        "community": "Comunidade",
+        "playNow": "Jogar Agora",
+        "joinCommunity": "Entrar para Comunidade",
+        "menu": "Menu",
+        "download": "Baixar",
+        "buy": "Comprar"
+    },
+    "video_player": {
+        "try_again": "Tentar Novamente",
+        "error_loading_video": "Erro ao carregar o vídeo.",
+        "loading": "Carregando vídeo...",
+        "unsupported_browser": "Seu navegador não suporta vídeos."
+    }
+}

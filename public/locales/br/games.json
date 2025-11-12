@@ -1,0 +1,22 @@
+{
+    "title": "MODOS DE <B>JOGOS</B>",
+    "description": "Cada modo de jogo oferece uma experiência única de estratégia, ação. Domine diferentes estilos de combate e prove seu valor.",
+    "modes": {
+        "confrontation": {
+            "title": "Confronto",
+            "description": "Elimine inimigos para somar pontos e permanecer no topo do Ranking."
+        },
+        "collapse": {
+            "title": "Colapso",
+            "description": "Avance sobre o objetivo inimigo para capturá-lo e defenda o seu próprio para impedir que o adversário faça o mesmo."
+        },
+        "domination": {
+            "title": "Dominação",
+            "description": "Capture e mantenha as zonas de objetivo no mapa para acumular pontos. Mantenha o seu Clã no topo do Ranking."
+        },
+        "free_fall": {
+            "title": "Queda Livre",
+            "description": "Entre sozinho ou em Squad, procure equipamentos e seja o último jogador ou time vivo em uma zona segura que diminui progressivamente."
+        }
+    }
+}

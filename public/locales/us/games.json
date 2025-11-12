@@ -1,0 +1,22 @@
+{
+    "title": "GAME <B>MODES</B>",
+    "description": "Each game mode offers a unique experience of strategy, action. Dominate different combat styles and prove your worth.",
+    "modes": {
+        "confrontation": {
+            "title": "Confrontation",
+            "description": "Eliminate enemies to score points and stay at the top of the Ranking."
+        },
+        "collapse": {
+            "title": "Collapse",
+            "description": "Advance on the enemy objective to capture it and defend your own to prevent the opponent from doing the same."
+        },
+        "domination": {
+            "title": "Domination",
+            "description": "Capture and maintain the objective zones on the map to accumulate points. Keep your Clan at the top of the Ranking."
+        },
+        "free_fall": {
+            "title": "Free Fall",
+            "description": "Go alone or in Squad, search for equipment and be the last player or team alive in a safe zone that gradually decreases."
+        }
+    }
+}

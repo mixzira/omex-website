@@ -1,0 +1,26 @@
+{
+    "todo": {
+        "title": "HOW TO PLAY?",
+        "description": "The gameplay is just three simple steps and you will be ready to start!",
+        "steps": {
+            "step1": {
+                "title": "Buy Grand Theft Auto V Legacy",
+                "description": "If you don't have a licensed version."
+            },
+            "step2": {
+                "title": "Download and install FiveM",
+                "description": "If you don't have FiveM installed."
+            },
+            "step3": {
+                "title": "Connect to the server",
+                "description": "Now it's time to fight."
+            }
+        }
+    },
+    "joinCommunity": {
+        "title": "JOIN OUR COMMUNITY",
+        "description": "Be the first to know about promotions and updates:",
+        "partner": "You want to become a media partner? ",
+        "contact": "Contact us"
+    }
+}

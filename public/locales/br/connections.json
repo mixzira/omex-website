@@ -1,0 +1,26 @@
+{
+    "todo": {
+        "title": "COMO POSSO JOGAR?",
+        "description": "A Gameplay está a apenas três passos simples e você já estará pronto para começar!",
+        "steps": {
+            "step1": {
+                "title": "Compre Grand Theft Auto V Legacy",
+                "description": "Se você ainda não possui uma versão licenciada."
+            },
+            "step2": {
+                "title": "Baixe e instale o FiveM",
+                "description": "Se você ainda não possui o FiveM instalado."
+            },
+            "step3": {
+                "title": "Conecte-se ao servidor",
+                "description": "Agora é hora do combate."
+            }
+        }
+    },
+    "joinCommunity": {
+        "title": "FAÇA PARTE DA NOSSA COMUNIDADE",
+        "description": "Seja o primeiro a saber sobre promoções e atualizações:",
+        "partner": "Você quer se tornar um parceiro de mídia? ",
+        "contact": "Entre em contato"
+    }
+}

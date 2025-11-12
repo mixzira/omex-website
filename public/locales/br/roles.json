@@ -1,0 +1,24 @@
+{
+    "roles": {
+        "c_level": {
+            "name": "Diretor",
+            "description": "Descrição"
+        },
+        "manager": {
+            "name": "Gerente",
+            "description": "Descrição"
+        },
+        "admin": {
+            "name": "Administrador",
+            "description": "Descrição"
+        },
+        "moderator": {
+            "name": "Moderador",
+            "description": "Descrição"
+        },
+        "support": {
+            "name": "Suporte",
+            "description": "Descrição"
+        }
+    }
+}

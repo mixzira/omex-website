@@ -1,0 +1,22 @@
+{
+    "languages": {
+        "br": "Portuguese",
+        "us": "English"
+    },
+    "navigation": {
+        "shop": "Shop",
+        "ranking": "Ranking",
+        "community": "Community",
+        "playNow": "Play Now",
+        "joinCommunity": "Join Community",
+        "menu": "Menu",
+        "download": "Download",
+        "buy": "Buy"
+    },
+    "video_player": {
+        "try_again": "Try Again",
+        "error_loading_video": "Error loading video.",
+        "loading": "Loading video...",
+        "unsupported_browser": "Your browser does not support videos."
+    }
+}

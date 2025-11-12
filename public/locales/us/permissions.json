@@ -1,0 +1,20 @@
+{
+    "permissions": {
+        "*": {
+            "name": "Full access",
+            "description": "Full access"
+        },
+        "roles_manage": {
+            "name": "Manage roles",
+            "description": "Manage roles"
+        },
+        "news_view": {
+            "name": "View news",
+            "description": "View news"
+        },
+        "news_manage": {
+            "name": "Manage news",
+            "description": "Manage news"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "permissions": {
+        "*": {
+            "name": "Acesso total",
+            "description": "Acesso total"
+        },
+        "roles_manage": {
+            "name": "Gerenciar cargos",
+            "description": "Gerenciar cargos"
+        },
+        "news_view": {
+            "name": "Visualizar notícias",
+            "description": "Visualizar notícias"
+        },
+        "news_manage": {
+            "name": "Gerenciar notícias",
+            "description": "Gerenciar notícias"
+        }
+    }
+}
