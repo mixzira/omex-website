@@ -4,6 +4,7 @@ import * as path from 'path'
 import { defineConfig } from 'vite'
 
 export default defineConfig({
+  base: '/omex-website/',
   plugins: [react(), tailwindcss()],
   build: {
     outDir: 'dist',
